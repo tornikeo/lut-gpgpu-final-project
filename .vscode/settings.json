@@ -1,0 +1,5 @@
+{
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "git.ignoreLimitWarning": true,
+    "python.defaultInterpreterPath": "/home/tornikeo/micromamba/envs/pb2",
+}
